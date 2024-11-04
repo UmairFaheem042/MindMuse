@@ -13,3 +13,15 @@ This project is built with [Next.js](https://nextjs.org/), a powerful React fram
 ## Tutorial Followed
 - [JSMastery](https://www.youtube.com/watch?v=Zq5fmkH0T78&t)'s Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App
 
+## Screenshots
+
+![alt text](image-5.png)
+
+---------------------------------
+![alt text](image-7.png)
+
+---------------------------------
+![alt text](image-6.png)
+
+---------------------------------
+![alt text](image-4.png)
